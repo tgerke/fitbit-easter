@@ -1,0 +1,1 @@
+![](figures/easter-steps.png)
