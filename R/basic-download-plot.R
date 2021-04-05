@@ -83,7 +83,7 @@ plot <- ggplot(
       " versus ",
       "<strong style = 'color: #b573dc'>Easter day</strong>"
     ),
-    subtitle = "Aggregated from FitBit in 15-minute intervals",
+    subtitle = "Aggregated from Fitbit in 15-minute intervals",
     caption = glue::glue(
       "Code: github.com/tgerke/fitbit-easter<br>",
       "Twitter: @travisgerke"
